@@ -1,4 +1,4 @@
-# OpenUtau-TexTo
+<img width="3183" height="2734" alt="happymikuuu" src="https://github.com/user-attachments/assets/ce93de6d-fefe-4a38-bf46-f0919ae9bb3a" /># OpenUtau-TexTo
 A modified version of OpenUtau (https://github.com/stakira/OpenUtau), specifically made to accommodate the Speech-To-Text-To-Teto program made by Acrylic (https://www.youtube.com/@hi-im-acrylic). It allows support for opening and playing .ustx files without having to have the program in focus or in your vision at all. Meant to be combined with the "Complete TexTo" mod of STTT.
 
 The script for playing .ustx is fully automated. All you need is to open the .bat file included in "Complete TexTo", and following that, select the directory in which the file with OpenUtau.exe is. After selecting your directory, the Complete TexTo script will remember this path for the future. If you wish to enter it manually or change it, paste the directory into openutau_path.txt as the only text in the file.
@@ -28,3 +28,8 @@ You should be notified to this also by the pesky microphone icon in the top left
 This is the first and possibly last version of this program, but if you need any help, watch the before mentioned Acrylic video or message me on discord: svary6
 
 Enjoy your Tetoing. :)
+
+Miku Miku Beeeeeeeeeeeeeeeeeeeeeeeeeeeeeam
+
+<img width="3183" height="2734" alt="happymikuuu" src="https://github.com/user-attachments/assets/42dbc8ef-c67d-434b-bffd-de4e8a8722e5" />
+
