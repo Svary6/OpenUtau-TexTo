@@ -5,7 +5,9 @@ The script for playing .ustx is fully automated. All you need is to open the .ba
 
 For complete instructions, visit the Complete TexTo github page. 
 
-This OpenUtau version has a Kasane Teto voicebank included, manually tuned to sound a little better, which i've not completely succeeded in. OpenUtau-TexTo is meant to be used ONLY with Kasane Teto and ONLY for the purpose of using it as a way to use Complete TexTo. For any other use, it may or may not work, but it is specifically tailored for speech to text to speech.
+This OpenUtau version has a Kasane Teto voicebank included, manually tuned to sound a little better, which i've not completely succeeded in. OpenUtau-TexTo is meant to be used ONLY with Kasane Teto and ONLY for the purpose of using it as a way to use Complete TexTo. For any other use, it may or may not work, but it is specifically tailored for speech to text to speech. If you wish to tweak the voicebank yourself, open the OpenUtau folder -> Singers -> Japanese Kanji -> Presamp.ini and edit that, although i don't recommend doing this without a tutorial or something.
+
+Now for the step by step:
 
 Upon launch, select New Project -> Select Singer -> Classic -> Bunch of Japanese characters
 
