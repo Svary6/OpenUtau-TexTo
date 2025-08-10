@@ -3,11 +3,15 @@ A modified version of OpenUtau (https://github.com/stakira/OpenUtau), specifical
 
 The script for playing .ustx is fully automated. All you need is to open the .bat file included in "Complete TexTo", and following that, select the directory in which the file with OpenUtau.exe is. After selecting your directory, the Complete TexTo script will remember this path for the future. If you wish to enter it manually or change it, paste the directory into openutau_path.txt as the only text in the file.
 
-For complete instructions, visit the Complete TexTo github page. 
+For complete instructions on the script side of things, visit the Complete TexTo github page. 
 
 This OpenUtau version has a Kasane Teto voicebank included, manually tuned to sound a little better, which i've not completely succeeded in. OpenUtau-TexTo is meant to be used ONLY with Kasane Teto and ONLY for the purpose of using it as a way to use Complete TexTo. For any other use, it may or may not work, but it is specifically tailored for speech to text to speech. If you wish to tweak the voicebank yourself, open the OpenUtau folder -> Singers -> Japanese Kanji -> Presamp.ini and edit that, although i don't recommend doing this without a tutorial or something.
 
 Now for the step by step:
+
+To launch OpenUtau, unzip your file and extract it somewhere not in your program files and open the file, then go through these folders: OpenUtau-Texto\OpenUtau\bin\Debug\net8.0-windows
+
+There you can scroll down to find your openutau.exe.
 
 Upon launch, select New Project -> Select Singer -> Classic -> Bunch of Japanese characters
 
